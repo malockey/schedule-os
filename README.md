@@ -31,5 +31,5 @@ make rr_p
 
 - EDF
 ```
-make rr_p
+make edf
 ```
